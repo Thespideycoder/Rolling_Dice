@@ -12,6 +12,5 @@ This is the beginner python project which simulates rolling  a die/dice using th
 
 ## Results
 
-![result](Screenshot (2).png)
-<img src="C:\Users\Dell\OneDrive\Pictures\Screenshots\Screenshot (1).png" alt="Ist window"/> <br />
-<img src="C:\Users\Dell\OneDrive\Pictures\Screenshots\Screenshot (2).png" alt="IInd window"/>
+![Screenshot (1)](https://user-images.githubusercontent.com/65063352/150573853-c947fbe9-aae6-45e3-964f-b195365f0a62.png)
+
